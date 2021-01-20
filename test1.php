@@ -6,4 +6,4 @@ aaabbbmbanmkkjnsx,
 
 asa
 ddd
-gic
+a
